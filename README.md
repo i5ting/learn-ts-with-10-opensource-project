@@ -6,15 +6,14 @@
 - 测试模块https://github.com/lukeed/uvu
 - Web模块（express替代品）：https://github.com/talentlessguy/tinyhttp
 - 数据库：
-  - knex https://github.com/knex/knex
   - typeorm https://github.com/typeorm/typeorm
 - Web应用：
   - https://github.com/midwayjs/midway
   - https://github.com/darukjs/daruk
+  - https://github.com/strongloop/loopback
   - https://github.com/nestjs/nest
 - SSR:https://github.com/ykfe/ssr
 - react全家桶：https://github.com/umijs/umi
-
 
 参考
 
